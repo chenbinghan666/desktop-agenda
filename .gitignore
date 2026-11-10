@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+/dist/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.zip
+
+# Local calendar subscriptions and caches
+*.ics
+*.tsv
+subscription.txt
+language.txt
+window.txt
+display.json
