@@ -27,6 +27,12 @@ The screenshots all use a fictional schedule.
 | **Personalization** | Follow Windows application color mode, support Simplified Chinese and English. Card color, font size, opacity, time range and start of week can be adjusted. |
 | **automatically synchronizes with** | The widget will try to refresh every 5 minutes when it is running, or it can be refreshed manually. When synchronization fails, the last successfully read schedule is retained. |
 
+## Demo
+
+[![Switch calendar views and open an event. The recording uses sample events.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Download MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ## Installation and connection
 
 Requires **Windows 11 x64** and [.NET 10 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/10.0).

@@ -27,6 +27,12 @@ Les captures d'écran utilisent toutes un horaire fictif.
 | **Personnalisation** | Suivez le mode couleur de l'application Windows, prenez en charge le chinois simplifié et l'anglais. La couleur de la carte, la taille de la police, l’opacité, la plage horaire et le début de la semaine peuvent être ajustés. |
 | **se synchronise automatiquement avec** | Le widget tentera de s'actualiser toutes les 5 minutes lorsqu'il est en cours d'exécution, ou il peut être actualisé manuellement. Lorsque la synchronisation échoue, la dernière programmation lue avec succès est conservée. |
 
+## Démonstration
+
+[![La vidéo montre comment changer de vue et ouvrir les détails d’un événement fictif.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Télécharger le MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ## Installation et connexion
 
 Nécessite **Windows 11 x64** et [.NET 10 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/10.0).

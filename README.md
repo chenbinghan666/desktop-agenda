@@ -27,6 +27,12 @@ C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbing
 | **个性化** | 跟随 Windows 应用颜色模式，支持简体中文和 English。可调整卡片颜色、字号、不透明度、时间范围和一周起始日。 |
 | **自动同步** | 挂件运行时每 5 分钟尝试刷新，也可手动刷新。同步失败时保留上次成功读取的日程。 |
 
+## 实操演示
+
+[![切换日历视图并打开日程详情。演示使用虚构日程。](docs/images/desktop-agenda-demo.gif)](docs/images/desktop-agenda-demo.mp4)
+
+[下载 MP4](docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ## 安装和连接
 
 需要 **Windows 11 x64** 和 [.NET 10 Desktop Runtime（x64）](https://dotnet.microsoft.com/download/dotnet/10.0)。

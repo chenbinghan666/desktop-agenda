@@ -27,6 +27,12 @@ Die Screenshots verwenden alle einen fiktiven Zeitplan.
 | **Personalisierung** | Befolgen Sie den Farbmodus der Windows-Anwendung und unterstützen Sie vereinfachtes Chinesisch und Englisch. Kartenfarbe, Schriftgröße, Deckkraft, Zeitbereich und Wochenbeginn können angepasst werden. |
 | **synchronisiert sich automatisch mit** | Das Widget versucht, alle 5 Minuten zu aktualisieren, wenn es ausgeführt wird, oder es kann manuell aktualisiert werden. Wenn die Synchronisierung fehlschlägt, wird der letzte erfolgreich gelesene Zeitplan beibehalten. |
 
+## Demo
+
+[![Die Aufnahme zeigt den Wechsel zwischen Kalenderansichten und die Details eines Beispieltermins.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[MP4 herunterladen](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ## Installation und Anschluss
 
 Erfordert **Windows 11 x64** und [.NET 10 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/10.0).

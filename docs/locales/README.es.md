@@ -27,6 +27,12 @@ Todas las capturas de pantalla utilizan un horario ficticio.
 | **Personalización** | Siga el modo de color de la aplicación de Windows, admite chino simplificado e inglés. Se puede ajustar el color de la tarjeta, el tamaño de fuente, la opacidad, el rango de tiempo y el inicio de la semana. |
 | **se sincroniza automáticamente con** | El widget intentará actualizarse cada 5 minutos cuando se esté ejecutando, o puede actualizarse manualmente. Cuando falla la sincronización, se conserva la última programación leída correctamente. |
 
+## Demostración
+
+[![El vídeo muestra cómo cambiar de vista y abrir los detalles de un evento de ejemplo.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Descargar MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ## Instalación y conexión
 
 Requiere **Windows 11 x64** y [.NET 10 Desktop Runtime (x64)](https://dotnet.microsoft.com/download/dotnet/10.0).
