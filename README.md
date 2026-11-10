@@ -1,6 +1,10 @@
 # Desktop Agenda · 桌面日历
 
-**回到 Windows 桌面，就能看到 Google 日历。** Desktop Agenda 是一个原生桌面挂件，适合把课表、会议和截止日期放在桌面上随时查看。日程从 Google 日历只读同步，界面支持浅色、深色和自定义配色。
+**简体中文** · [English](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.en.md) · [日本語](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.ja.md) · [Deutsch](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.de.md) · [Français](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.fr.md) · [Español](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.es.md) · [Português](https://github.com/chenbinghan666/desktop-agenda/blob/main/docs/locales/README.pt.md)
+
+把 Google 日历放在 Windows 桌面上。日、周、月和列表四种视图方便随时查看课表、会议和截止日期。日程通过 iCal 只读同步。
+
+C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
 ![深色周视图。今天的日期列略宽，红线标记当前时间，定时和全天事项分开显示。](docs/images/week-dark.png)
 
