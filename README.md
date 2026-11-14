@@ -6,6 +6,12 @@
 
 C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## 实操演示
+
+[![切换日历视图并打开日程详情。演示使用虚构日程。](docs/images/desktop-agenda-demo.gif)](docs/images/desktop-agenda-demo.mp4)
+
+[下载 MP4](docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ![深色周视图。今天的日期列略宽，红线标记当前时间，定时和全天事项分开显示。](docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ C# · WPF · Google Calendar · [下载桌面日历](https://github.com/chenbing
 | **日程详情** | 卡片显示标题和地点。悬停约 250 毫秒查看完整标题、时间和地点，单击可查看备注。 |
 | **个性化** | 跟随 Windows 应用颜色模式，支持简体中文和 English。可调整卡片颜色、字号、不透明度、时间范围和一周起始日。 |
 | **自动同步** | 挂件运行时每 5 分钟尝试刷新，也可手动刷新。同步失败时保留上次成功读取的日程。 |
-
-## 实操演示
-
-[![切换日历视图并打开日程详情。演示使用虚构日程。](docs/images/desktop-agenda-demo.gif)](docs/images/desktop-agenda-demo.mp4)
-
-[下载 MP4](docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## 安装和连接
 

@@ -6,6 +6,12 @@ Affiche Google Agenda sur le bureau Windows. Les vues jour, semaine, mois et lis
 
 C# · WPF · Google Calendar · [Télécharger le calendrier de bureau](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## Démonstration
+
+[![La vidéo montre comment changer de vue et ouvrir les détails d’un événement fictif.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Télécharger le MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 Vue de la semaine sombre ![. La colonne de date d'aujourd'hui est légèrement plus large, la ligne rouge marque l'heure actuelle et les événements programmés et toute la journée sont affichés séparément.](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ Les captures d'écran utilisent toutes un horaire fictif.
 | Détails du calendrier **** | La carte affiche le titre et l'emplacement. Passez la souris pendant environ 250 millisecondes pour voir le titre complet, l'heure et le lieu, cliquez pour afficher les notes. |
 | **Personnalisation** | Suivez le mode couleur de l'application Windows, prenez en charge le chinois simplifié et l'anglais. La couleur de la carte, la taille de la police, l’opacité, la plage horaire et le début de la semaine peuvent être ajustés. |
 | **se synchronise automatiquement avec** | Le widget tentera de s'actualiser toutes les 5 minutes lorsqu'il est en cours d'exécution, ou il peut être actualisé manuellement. Lorsque la synchronisation échoue, la dernière programmation lue avec succès est conservée. |
-
-## Démonstration
-
-[![La vidéo montre comment changer de vue et ouvrir les détails d’un événement fictif.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[Télécharger le MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## Installation et connexion
 

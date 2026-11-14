@@ -6,6 +6,12 @@ Mostra o Google Agenda na área de trabalho do Windows. As visualizações de di
 
 C# · WPF · Google Calendar · [Baixar calendário de desktop](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## Demonstração
+
+[![O vídeo mostra como alternar entre as visualizações e abrir os detalhes de um evento de exemplo.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Baixar MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 Visualização da semana escura ![. A coluna da data de hoje é um pouco mais larga, a linha vermelha marca a hora atual e os eventos programados e de dia inteiro são exibidos separadamente.](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ Todas as capturas de tela usam uma programação fictícia.
 | Detalhes da programação **** | O cartão exibe o título e a localização. Passe o mouse por aproximadamente 250 milissegundos para ver o título completo, hora e local, clique para ver as notas. |
 | **Personalização** | Siga o modo de cores do aplicativo Windows, suporte para chinês simplificado e inglês. A cor do cartão, o tamanho da fonte, a opacidade, o intervalo de tempo e o início da semana podem ser ajustados. |
 | **sincroniza automaticamente com** | O widget tentará atualizar a cada 5 minutos quando estiver em execução ou poderá ser atualizado manualmente. Quando a sincronização falha, o último agendamento de leitura bem-sucedido é retido. |
-
-## Demonstração
-
-[![O vídeo mostra como alternar entre as visualizações e abrir os detalhes de um evento de exemplo.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[Baixar MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## Instalação e conexão
 

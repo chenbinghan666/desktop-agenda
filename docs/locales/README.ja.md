@@ -6,6 +6,12 @@ Google カレンダーを Windows のデスクトップに表示します。日�
 
 C# ・ WPF ・ Google カレンダー ・ [デスクトップカレンダーをダウンロード](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## 操作デモ
+
+[![カレンダーの表示を切り替え、予定の詳細を開きます。録画にはサンプルの予定を使用しています。](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[MP4 をダウンロード](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ![暗い週のビュー。今日の日付列は少し幅が広くなり、赤い線が現在の時刻を示し、予定されたイベントと終日のイベントが別々に表示されます。](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ C# ・ WPF ・ Google カレンダー ・ [デスクトップカレンダーを�
 | **スケジュール詳細** | カードにはタイトルと場所が表示されます。約 250 ミリ秒間マウスを移動すると、完全なタイトル、時間、場所が表示され、クリックするとメモが表示されます。 |
 | **カスタマイズ** | Windows アプリケーションのカラー モードに従い、簡体字中国語と英語をサポートします。カードの色、フォント サイズ、不透明度、時間範囲、週の始まりを調整できます。 |
 | **は** と自動的に同期します | ウィジェットは、実行中は 5 分ごとに更新を試みますが、手動で更新することもできます。同期が失敗した場合、最後に正常に読み取られたスケジュールが保持されます。 |
-
-## 操作デモ
-
-[![カレンダーの表示を切り替え、予定の詳細を開きます。録画にはサンプルの予定を使用しています。](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[MP4 をダウンロード](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## 設置と接続
 

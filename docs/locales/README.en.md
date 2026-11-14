@@ -6,6 +6,12 @@ Keep Google Calendar visible on your Windows desktop. Switch between day, week, 
 
 C# · WPF · Google Calendar · [Download desktop calendar](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## Demo
+
+[![Switch calendar views and open an event. The recording uses sample events.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Download MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ![dark week view. Today's date column is slightly wider, the red line marks the current time, and scheduled and all-day events are displayed separately.](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ The screenshots all use a fictional schedule.
 | **schedule details** | The card displays the title and location. Hover for approximately 250 milliseconds to see full title, time and location, click to view notes. |
 | **Personalization** | Follow Windows application color mode, support Simplified Chinese and English. Card color, font size, opacity, time range and start of week can be adjusted. |
 | **automatically synchronizes with** | The widget will try to refresh every 5 minutes when it is running, or it can be refreshed manually. When synchronization fails, the last successfully read schedule is retained. |
-
-## Demo
-
-[![Switch calendar views and open an event. The recording uses sample events.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[Download MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## Installation and connection
 

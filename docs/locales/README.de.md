@@ -6,6 +6,12 @@ Zeigt Google Kalender direkt auf dem Windows-Desktop an. Tages-, Wochen-, Monats
 
 C# · WPF · Google Kalender · [Desktop-Kalender](https://github.com/chenbinghan666/desktop-agenda/releases/latest) herunterladen
 
+## Demo
+
+[![Die Aufnahme zeigt den Wechsel zwischen Kalenderansichten und die Details eines Beispieltermins.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[MP4 herunterladen](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 ![dunkle Wochenansicht. Die heutige Datumsspalte ist etwas breiter, die rote Linie markiert die aktuelle Uhrzeit und geplante und ganztägige Ereignisse werden getrennt angezeigt.](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ Die Screenshots verwenden alle einen fiktiven Zeitplan.
 | **Zeitplandetails** | Auf der Karte werden Titel und Ort angezeigt. Bewegen Sie den Mauszeiger etwa 250 Millisekunden lang, um den vollständigen Titel, die Zeit und den Ort anzuzeigen. Klicken Sie, um Notizen anzuzeigen. |
 | **Personalisierung** | Befolgen Sie den Farbmodus der Windows-Anwendung und unterstützen Sie vereinfachtes Chinesisch und Englisch. Kartenfarbe, Schriftgröße, Deckkraft, Zeitbereich und Wochenbeginn können angepasst werden. |
 | **synchronisiert sich automatisch mit** | Das Widget versucht, alle 5 Minuten zu aktualisieren, wenn es ausgeführt wird, oder es kann manuell aktualisiert werden. Wenn die Synchronisierung fehlschlägt, wird der letzte erfolgreich gelesene Zeitplan beibehalten. |
-
-## Demo
-
-[![Die Aufnahme zeigt den Wechsel zwischen Kalenderansichten und die Details eines Beispieltermins.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[MP4 herunterladen](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## Installation und Anschluss
 

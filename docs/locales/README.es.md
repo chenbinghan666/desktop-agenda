@@ -6,6 +6,12 @@ Muestra Google Calendar en el escritorio de Windows. Las vistas de día, semana,
 
 C# · WPF · Google Calendar · [Descargar calendario de escritorio](https://github.com/chenbinghan666/desktop-agenda/releases/latest)
 
+## Demostración
+
+[![El vídeo muestra cómo cambiar de vista y abrir los detalles de un evento de ejemplo.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
+
+[Descargar MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
+
 Vista de la semana oscura ![. La columna de fecha de hoy es un poco más ancha, la línea roja marca la hora actual y los eventos programados y de todo el día se muestran por separado.](../../docs/images/week-dark.png)
 
 <table>
@@ -26,12 +32,6 @@ Todas las capturas de pantalla utilizan un horario ficticio.
 | Detalles del horario de **** | La tarjeta muestra el título y la ubicación. Pase el cursor durante aproximadamente 250 milisegundos para ver el título completo, la hora y la ubicación; haga clic para ver las notas. |
 | **Personalización** | Siga el modo de color de la aplicación de Windows, admite chino simplificado e inglés. Se puede ajustar el color de la tarjeta, el tamaño de fuente, la opacidad, el rango de tiempo y el inicio de la semana. |
 | **se sincroniza automáticamente con** | El widget intentará actualizarse cada 5 minutos cuando se esté ejecutando, o puede actualizarse manualmente. Cuando falla la sincronización, se conserva la última programación leída correctamente. |
-
-## Demostración
-
-[![El vídeo muestra cómo cambiar de vista y abrir los detalles de un evento de ejemplo.](../../docs/images/desktop-agenda-demo.gif)](../../docs/images/desktop-agenda-demo.mp4)
-
-[Descargar MP4](../../docs/images/desktop-agenda-demo.mp4?raw=true)
 
 ## Instalación y conexión
 
